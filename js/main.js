@@ -85,9 +85,8 @@ $(document).ready(function () {
       strings: [
         "Alcohol Free.",
         "Cruelty Free.",
-        "No Added Fragrance.",
         "No Added Paraben.",
-        "No Added Sillicon",
+        "No Added Sillicon.",
       ],
       typeSpeed: 100,
       loop: true,
