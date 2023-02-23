@@ -273,6 +273,11 @@ nav ul li a {
   font-weight: 500;
 }
 
+.header-content p span{
+  padding: 5px;
+  background-color: #fff;
+}
+
 .header-content .list-social li {
   float: left;
   margin-right: 20px;
